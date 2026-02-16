@@ -52,7 +52,23 @@ npm run dev     # Start frontend server (http://localhost:5173)
 
 ### 4. Access the Application
 - Open **http://localhost:5173** in your browser
-- Login with any username and password (minimum 3 characters)
+- Login with the demo credentials below
+
+## Demo Credentials
+
+| Username | Password |
+|----------|----------|
+| admin    | 12345    |
+
+## Quick Test Guide
+
+1. **Login** - Use credentials above
+2. **View Calendar** - See monthly appointments with color-coded status
+3. **Create Visit** - Click "New Visit" button or click + on any date
+4. **Edit Visit** - Click on any visit card in the calendar
+5. **Filter Visits** - Use dropdowns to filter by clinician/patient/status
+6. **Check-in Workflow** - Click green "Start Check-in" button to process today's patients sequentially
+7. **Add Patient/Clinician** - Use buttons in the header
 
 ## Project Structure
 
