@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Database (will be created on first run)
+*.db
+
+# Logs
+*.log
+
+# Environment
+.env
